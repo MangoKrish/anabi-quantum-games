@@ -1,0 +1,8 @@
+{
+  "name": "anabi-agents",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@quantumplayed/quantum-game-engine": "1.0.2"
+  }
+}
